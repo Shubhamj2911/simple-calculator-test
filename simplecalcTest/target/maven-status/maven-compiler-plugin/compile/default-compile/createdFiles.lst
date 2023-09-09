@@ -1,8 +1,0 @@
-com\simple\arithmetic\calculator\restcontroller\SimpleCalculatorRestController.class
-com\simple\arithmetic\calculator\models\ResponseModel.class
-com\simple\arithmetic\calculator\models\RequestModel$RequestModelBuilder.class
-com\simple\arithmetic\calculator\service\impl\CalculateServiceImpl.class
-com\simple\arithmetic\calculator\models\ResponseModel$ResponseModelBuilder.class
-com\simple\arithmetic\calculator\SimplecalcApplication.class
-com\simple\arithmetic\calculator\models\RequestModel.class
-com\simple\arithmetic\calculator\service\intf\CalculateServiceIntf.class
