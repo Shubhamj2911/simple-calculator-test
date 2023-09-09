@@ -1,0 +1,27 @@
+HTTPMETHOD: POST
+
+Sample Request: 
+{
+    "arithmeticType":2,
+    "firstNumber":-4,
+    "secondNumber":4
+}
+
+Response SUCCESS:
+{"status":1,"result":-8,"errorDescription":"No errors"}
+
+Response FAILURE:
+{"status":0,"result":0,"errorDescription":"Null Values are not allowerd."}
+
+
+
+Request parameters:
+Arithmetic Type Values(Null not allowed):
+
+1-Addition
+2-Subtraction
+3-Division
+4-Multiplication
+
+Firstnumber(Null not allowed)
+Secondnumber(Null not allowed)
