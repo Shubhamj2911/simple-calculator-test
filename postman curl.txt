@@ -1,0 +1,7 @@
+curl --location 'http://localhost:8080/calculate' \
+--header 'Content-Type: application/json' \
+--data '{
+    "arithmeticType":2,
+    "firstNumber":-4,
+    "secondNumber":4
+}'
